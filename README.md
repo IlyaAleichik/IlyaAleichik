@@ -72,9 +72,8 @@
   
   [![Website](https://img.shields.io/badge/website-aiderix.com-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiderix.com)
   [![GitHub](https://img.shields.io/badge/github-aiderix-00FF9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aiderix)
-  [![Twitter](https://img.shields.io/badge/twitter-@aiderix-00FF9D?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/aiderix)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-aiderix-00FF9D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/aiderix)
-  [![Telegram](https://img.shields.io/badge/Telegram-@aiderix-00FF9D?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aiderix)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-aiderix-00FF9D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aicgtrade/)
+  [![Telegram](https://img.shields.io/badge/Telegram-@aiderix-00FF9D?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArkinWhiteWolf)
   
 </div>
 
