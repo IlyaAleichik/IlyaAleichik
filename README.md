@@ -31,6 +31,11 @@
 </div>
 -->
 
+<!-- График активности -->
+## 📈 График активности
+[![Ilya github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IlyaAleichik&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!-- Технологический стек -->
 ## 🛠️ Специализация
 
@@ -58,10 +63,6 @@
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   
 </div>
-
-<!-- График активности -->
-## 📈 График активности
-[![Ilya github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IlyaAleichik&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- Контакты -->
